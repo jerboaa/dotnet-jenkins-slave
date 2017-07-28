@@ -1,2 +1,9 @@
-# dotnet-jenkins-slave
-.NET Core Jenkins Slave for OpenShift
+# .NET Core Jenkins Slaves for OpenShift
+
+## Build
+
+TODO
+
+## Run
+
+TODO
